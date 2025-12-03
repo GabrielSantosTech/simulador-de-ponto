@@ -7,6 +7,10 @@ Descrição Geral:
 Este projeto é um **simulador de controle de ponto e gestão de salário** desenvolvido
 em Python utilizando a biblioteca **Tkinter** para a interface gráfica.
 
+O código original contém 553 linhas, mas por motivos de proteção de propriedade 
+intelectual e segurança, optei por não disponibilizar o código completo aqui. 
+Esta descrição detalha todas as funcionalidades e objetivos do projeto.
+
 Funcionalidades Principais:
 1. Cadastro e login de usuários com cargos específicos.
 2. Simulação de dias de trabalho, férias e folgas.
@@ -51,3 +55,4 @@ interativas em Python. Não é destinado para uso corporativo real.
 
 ================================================================================
 """
+
