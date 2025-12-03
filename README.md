@@ -41,9 +41,3 @@ Um aplicativo **Python** com interface gráfica (**Tkinter**) que simula o contr
 - **datetime** – controle de datas e ciclos de pagamento
 
 ---
-
-## 📦 Como usar
-
-1. Clone este repositório:
-```bash
-git clone https://github.com/GabrielSantosTech/simulador-de-p
